@@ -1,0 +1,13 @@
+Package: riccatiKalmanFilter
+Type: Package 
+Title: Solving Riccati Equations and Applying Kalman Filter 
+Version: 0.1.0 
+Author: LELE [aut, cre] 
+Maintainer: LELE <foullalele10@gmail.com> 
+Description: Computation of the optimal control using Riccati equations and applying the Kalman filter for signal processing. 
+License: GPL-3 
+Encoding: UTF-8
+RoxygenNote: 7.3.2 
+LazyData: yes
+Authors@R: person(family = "LELE",role = c("aut","cre"),email = "foullalele10@gmail.com")
+Imports: data.table,ggplot2

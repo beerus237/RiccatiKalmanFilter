@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("stats", "runif")
+# Export the functions you want to make available to users of your package
+export(solve_riccati_iterative)
+
+# Import functions from other packages
+import(ggplot2)
